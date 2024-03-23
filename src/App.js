@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hey, Talk to me</h1>
+        <h1>Hey, Welcome to Room No 007</h1>
+        <p>Mr Bond is live...</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
       <script>
